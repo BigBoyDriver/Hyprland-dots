@@ -1,4 +1,1 @@
-helloo
-these are my hyprland dotfiles
-install them if u want idk
-okie bye 
+these are some hyprland dotfiles as of 10/24/24
